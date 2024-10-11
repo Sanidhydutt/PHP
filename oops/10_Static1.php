@@ -24,7 +24,7 @@ class A
 
 // A::ss();
 
-$s1 = new A("WTF");
+$s1 = new A("HYY");
 
 $s1->ss();
 
