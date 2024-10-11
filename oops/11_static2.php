@@ -17,7 +17,7 @@ class B extends A
 
 // A::ss();
 
-// $s1 = new A("WTF");
+// $s1 = new A("SANI");
 
 // $s1->ss();
 
