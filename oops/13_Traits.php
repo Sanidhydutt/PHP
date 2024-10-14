@@ -1,6 +1,6 @@
 <?php 
 
-trait hyy
+trait a1
 {
     public function hyy()
     {
@@ -12,7 +12,7 @@ trait hyy
     }
 }
 
-trait byy
+trait b1
 {
     public function byy()
     {
@@ -22,7 +22,7 @@ trait byy
 
 class A {
   
-    use hyy,byy;
+    use a1,b1;
 }
 
 $s1 = new A();
